@@ -19,4 +19,4 @@ class Post(models.Model):
 		return self.title
 
 # addition 1
-
+# addition 2
